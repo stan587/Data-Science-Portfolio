@@ -164,10 +164,10 @@ wti_pp.plot_components(wti_forecast, uncertainty = True);
 
 
 # Extras
-- View the iPython Notebook on GitHub
+- [View the iPython Notebook on GitHub](https://github.com/stan587/Data-Science-Portfolio/blob/master/Time_Series_Oil_Price_Forecast/Time_Series_Forecast_of_Brent_and_WTI.ipynb)
 - download the prediction in plain text
-  - Brent 2 years forecast
-  - WTI 2 years forecast
+  - Brent 2 years forecast (download [bre_forecastOutput.csv](https://github.com/stan587/Data-Science-Portfolio/blob/master/Time_Series_Oil_Price_Forecast/bre_forecastOutput.csv) )
+  - WTI 2 years forecast (download [wti_forecastOutput.csv](https://github.com/stan587/Data-Science-Portfolio/blob/master/Time_Series_Oil_Price_Forecast/wti_forecastOutput.csv) )
 
 
 
