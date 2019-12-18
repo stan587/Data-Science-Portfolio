@@ -85,11 +85,11 @@ plt.legend();
 plt.show();
 ```
 
- ![img](README.assets/Wed, 18 Dec 2019 003022.png) 
+ ![img](README.assets/2019003022.png) 
 
- ![img](README.assets/Wed, 18 Dec 2019 003030.png) 
+ ![img](README.assets/2019003030.png) 
 
- ![img](README.assets/Wed, 18 Dec 2019 003033.png) 
+ ![img](README.assets/2019003033.png) 
 
 
 
