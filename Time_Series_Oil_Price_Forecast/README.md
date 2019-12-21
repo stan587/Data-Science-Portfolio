@@ -89,7 +89,7 @@ plt.show();
 
  ![wti_plot](README.assets/wti_plot.png) 
 
- ![img](README.assets/2019003033.png) 
+ ![bre_wti_plot](README.assets/bre_wti_plot.png) 
 
 
 
