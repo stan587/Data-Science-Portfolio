@@ -85,9 +85,9 @@ plt.legend();
 plt.show();
 ```
 
- ![img](README.assets/2019003022.png) 
+ ![brent_plot](README.assets/brent_plot.png) 
 
- ![img](README.assets/2019003030.png) 
+ ![wti_plot](README.assets/wti_plot.png) 
 
  ![img](README.assets/2019003033.png) 
 
@@ -116,7 +116,7 @@ bre_pp.plot(bre_forecast, xlabel = 'Date', ylabel = 'Price ($)', uncertainty = T
 plt.title('Brent Price Forecast');
 ```
 
-![BORw0KGgoAAAANSUhEUgAAAscAAAG4CA](README.assets/BORw0KGgoAAAANSUhEUgAAAscAAAG4CA.png)
+![brent_forecast](README.assets/brent_forecast.png)
 
 ```python
 
